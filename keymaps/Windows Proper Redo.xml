@@ -9,6 +9,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FocusEditor">
