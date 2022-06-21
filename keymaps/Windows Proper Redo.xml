@@ -1,0 +1,22 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoFile" />
+  <action id="HideActiveWindow" />
+  <action id="OverrideMethods" />
+  <action id="Terminal.SwitchFocusToEditor">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
+</keymap>
