@@ -13,14 +13,17 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="d" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FocusEditor">
@@ -40,6 +43,9 @@
   <action id="HideActiveWindow" />
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="OverrideMethods" />
   <action id="Terminal.SwitchFocusToEditor">
