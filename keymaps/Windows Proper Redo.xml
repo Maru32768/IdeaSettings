@@ -39,9 +39,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FocusEditor">
-    <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
