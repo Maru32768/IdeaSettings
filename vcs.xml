@@ -234,6 +234,10 @@
           <option name="url" value="https://github.com/dmulloy2/ProtocolLib" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mojang/LegacyLauncher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Desktop" />
