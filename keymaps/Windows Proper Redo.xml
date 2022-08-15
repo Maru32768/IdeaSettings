@@ -30,7 +30,6 @@
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-    <keyboard-shortcut first-keystroke="d" />
   </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
