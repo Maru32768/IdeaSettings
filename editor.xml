@@ -3,6 +3,7 @@
     <EXCLUDED_PACKAGE NAME="org.bukkit.entity.Entity" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
   <component name="InlayHintsSettings">
